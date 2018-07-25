@@ -1,0 +1,4 @@
+/application/node_modules
+*.log
+/logs
+/results
